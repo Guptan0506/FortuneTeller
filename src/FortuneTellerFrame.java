@@ -106,4 +106,8 @@ public class FortuneTellerFrame extends JFrame {
             return fortunes[index];
         }
     }
+
+    public static void main(String[] args) {
+        new FortuneTellerFrame();
+    }
 }
