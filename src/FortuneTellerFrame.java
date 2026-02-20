@@ -73,6 +73,13 @@ public class FortuneTellerFrame extends JFrame {
 
         private String getRandomFortune() {
             String[] fortunes = {
+                    "There in 1 in 3 chance you will be followed by crackhead on your way home.",
+                    "You will be constipated for the next 3 days.",
+                    "You will stub your toe on something and it will hurt a lot.",
+                    "You will wake up at 3am thirsty and when you grab your bottle it will be empty",
+                    "Your charger will only work at a certain angle",
+                    "Only one side of your headphones will work.",
+                    "You will not have a good day.",
                     "You will have a great day!",
                     "A surprise is waiting for you.",
                     "Good news is on the way.",
